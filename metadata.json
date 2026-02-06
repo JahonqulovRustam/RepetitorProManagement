@@ -1,0 +1,7 @@
+{
+  "name": "Repetitor Pro Management System",
+  "description": "A comprehensive management platform for private tutors and teachers to manage students, groups, attendance, payments, and learning materials.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
